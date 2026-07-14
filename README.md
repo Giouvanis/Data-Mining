@@ -57,10 +57,9 @@ SVM Boundary: Yields a clean, linear boundary due to the selected linear kernel.
 Random Forest Boundary: Demonstrates more complex, non-linear axis-aligned splits representing the ensemble of decision trees.  
 
 (Insert your saved plots here to make your repository stand out!)
+<img width="692" height="535" alt="image" src="https://github.com/user-attachments/assets/4b82b086-c0fd-4a16-b999-cacb3cc0ac6f" />
 
-![SVM Boundary](images/svm_boundary.png)
-
-![RF Boundary](images/rf_boundary.png)
+<img width="709" height="553" alt="image" src="https://github.com/user-attachments/assets/055c9c9f-d916-476b-af3f-65f841a50b8b" />
 
 🧠 Clinical Context & Insights
 The relationship between Cholesterol and Blood Pressure plays a pivotal role in predicting cardiovascular risk:  
